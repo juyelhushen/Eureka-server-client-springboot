@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Eureka.iml" filepath="$PROJECT_DIR$/.idea/Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jskool.eureka.client/jskool.eureka.client.iml" filepath="$PROJECT_DIR$/jskool.eureka.client/jskool.eureka.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jskool.eureka.clienttwo/jskool.eureka.clienttwo.iml" filepath="$PROJECT_DIR$/jskool.eureka.clienttwo/jskool.eureka.clienttwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jskool.eureka.server/jskool.eureka.server.iml" filepath="$PROJECT_DIR$/jskool.eureka.server/jskool.eureka.server.iml" />
+    </modules>
+  </component>
+</project>
